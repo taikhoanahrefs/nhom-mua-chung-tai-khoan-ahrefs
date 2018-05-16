@@ -1,7 +1,7 @@
 {
-    "name": "trannamphong/muachungahrefs",
+    "name": "taikhoanahrefs/Nhom-mua-chung-tai-khoan-ahrefs",
     "description": "Mua chung Ahrefs.",
-    "keywords": ["framework", "laravel"],
+    "keywords": ["framework", "Nhom-mua-chung-tai-khoan-ahrefs"],
     "license": "TranNamPhong",
     "type": "project",
     "require": {
