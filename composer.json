@@ -1,8 +1,8 @@
 {
-    "name": "taikhoanahrefs",
-    "description": "Mua chung Ahrefs.",
-    "keywords": ["framework", "Nhom-mua-chung-tai-khoan-ahrefs"],
-    "license": "TranNamPhong",
+    "name": "taikhoanahrefs/Nhom-mua-chung-tai-khoan-ahrefs",
+    "description": "Ahrefs Framework.",
+    "keywords": ["framework", "ahrefs"],
+    "license": "MIT",
     "type": "project",
     "require": {
         "php": "^7.1.3",
